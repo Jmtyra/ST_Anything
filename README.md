@@ -10,7 +10,7 @@ ST_Anything v2.9.7
 - v2.9.6 - Added support for Arduino NANO33IoT
 - v2.9.5 - Added support for Arduino MKR1010, Arduino 1.8.9, ESP8266 v2.5.2, updated numerous libraries, etc...
 - v2.9.4 - Added support for the SHT31 (temp, humid) I2C sensor
-- v2.9.3 - Significant enhancements to the EX_Servo class and Child Device Handler - Thanks Jeff Albers!  ALso, an attempt to prevent duplicate child devices from being created.
+- v2.9.3 - Significant enhancements to the EX_Servo class and Child Device Handler - Thanks Jeff Albers!  Also, an attempt to prevent duplicate child devices from being created.
 
 ## Architecture Flow Chart
 
